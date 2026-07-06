@@ -18,7 +18,10 @@ byteseed
 ├── png
 │   ├── imageworsener (MIT)
 │   └── PngSuite (Permissive)
+└── wav
+    └── cpython (Permissive)
 └── zip
+    └── cpython (Permissive)
 ```
 
 ## Sources
