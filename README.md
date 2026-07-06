@@ -17,7 +17,10 @@ byteseed
 │   └── imageworsener_jpg (MIT)
 ├── png
 │   ├── imageworsener_png (MIT)
-│   └── PngSuite_png (Permissive)
+│   ├── PngSuite_png (Permissive)
+│   └── SuperTinyIcons_png (MIT)
+├── svg
+│   └── SuperTinyIcons_svg (MIT)
 ├── wav
 │   └── cpython_wav (Permissive)
 └── zip
