@@ -9,6 +9,7 @@ Files are grouped by file type and then by project:
 ```text
 byteseed
 ├── bmp
+│   ├── BmpSuite_bmp (GPL-3.0)
 │   └── imageworsener_bmp (MIT)
 ├── gif
 │   └── imageworsener_gif (MIT)
@@ -16,6 +17,7 @@ byteseed
 ├── jpeg
 │   └── imageworsener_jpg (MIT)
 ├── png
+│   ├── BmpSuite_png (GPL-3.0)
 │   ├── imageworsener_png (MIT)
 │   ├── PngSuite_png (Permissive)
 │   └── SuperTinyIcons_png (MIT)
