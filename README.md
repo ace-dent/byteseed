@@ -4,13 +4,21 @@ A collection of useful test files, sourced from open source projects.
 
 ## Structure
 
-Files are grouped by file type:
+Files are grouped by file type and then by project:
 
 ```text
 byteseed
-├─ png
-├─ zip
-└─ gzip
+├── bmp
+│   └── imageworsener (MIT)
+├── gif
+│   └── imageworsener (MIT)
+├── gzip
+├── jpeg
+│   └── imageworsener (MIT)
+├── png
+│   ├── imageworsener (MIT)
+│   └── PngSuite (Permissive)
+└── zip
 ```
 
 ## Sources
