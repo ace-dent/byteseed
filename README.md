@@ -9,19 +9,19 @@ Files are grouped by file type and then by project:
 ```text
 byteseed
 ├── bmp
-│   └── imageworsener (MIT)
+│   └── imageworsener_bmp (MIT)
 ├── gif
-│   └── imageworsener (MIT)
+│   └── imageworsener_gif (MIT)
 ├── gzip
 ├── jpeg
-│   └── imageworsener (MIT)
+│   └── imageworsener_jpg (MIT)
 ├── png
-│   ├── imageworsener (MIT)
-│   └── PngSuite (Permissive)
-└── wav
-    └── cpython (Permissive)
+│   ├── imageworsener_png (MIT)
+│   └── PngSuite_png (Permissive)
+├── wav
+│   └── cpython_wav (Permissive)
 └── zip
-    └── cpython (Permissive)
+    └── cpython_zip (Permissive)
 ```
 
 ## Sources
