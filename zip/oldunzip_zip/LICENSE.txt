@@ -1,0 +1,7 @@
+Source: https://github.com/jsummers/oldunzip/ (Accessed 7-Jul-2026).
+
+
+"Old Unzip" - A collection a public domain or MIT licensed single-header-file
+C/C++ libraries to help decompress ZIP files.
+
+...

@@ -20,13 +20,15 @@ byteseed
 │   ├── BmpSuite_png (GPL-3.0)
 │   ├── imageworsener_png (MIT)
 │   ├── PngSuite_png (Permissive)
+│   ├── rqlpng_png (Permissive)
 │   └── SuperTinyIcons_png (MIT)
 ├── svg
 │   └── SuperTinyIcons_svg (MIT)
 ├── wav
 │   └── cpython_wav (Permissive)
 └── zip
-    └── cpython_zip (Permissive)
+    ├── cpython_zip (Permissive)
+    └── oldunzip_zip (MIT)
 ```
 
 ## Sources
@@ -39,4 +41,4 @@ Treat all files as untrusted input. Some samples may be unusual, malformed, comp
 
 ## Legal
 
-The files and metadata in this repository are provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement. Use them at your own risk.
+The files and metadata in this repository are provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. Use them at your own risk.
